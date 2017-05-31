@@ -1,0 +1,29 @@
+h1 {
+    font-size: 45pt;
+}
+
+h2 {
+    font-size: 40pt;
+    text-align: center;
+}
+
+heading img {
+   height: 1em; 
+}
+
+body {
+    background-color: #2b72e5;
+    font-family: Times-New-Roman;
+    color: white;
+}
+
+.outerDiv {
+    box-sizing: border-box;
+    padding: 5px;
+    color: rgb(6, 21, 45);
+}
+
+a { 
+    color: black;
+    text-decoration: none;
+}
